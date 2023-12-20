@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start:dev": "",
+    "start:dev": "node server.js",
     "start": "",
     "server": "",
     "build": "",
